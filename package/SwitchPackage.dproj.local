@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/13 15:51:31.000.324,=rtl.dcp</Transaction>
+    <Transaction>2023/05/27 09:15:43.000.578,=rtl.dcp</Transaction>
+    <Transaction>2023/05/27 09:16:44.000.190,C:\Users\crpsi\OneDrive\Documentos\Embarcadero\Studio\Projects\Package1.dproj=D:\DX\Components\Switch\package\Switchpkg.dproj</Transaction>
+    <Transaction>2023/05/27 09:16:58.000.954,=D:\DX\Components\Switch\source\Vcl.Control.Switch.pas</Transaction>
+    <Transaction>2023/05/27 09:18:09.000.774,D:\DX\Components\Switch\package\Switchpkg.dproj=D:\DX\Components\Switch\package\SwitchPackage.dproj</Transaction>
+    <Transaction>2023/05/27 09:18:26.000.178,=vcl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
